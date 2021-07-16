@@ -1,6 +1,6 @@
 # EE460N
 
-##Labs for EE460N (Computer Architecture)
+Labs for EE460N (Computer Architecture):
 
 [`lab 1`](https://github.com/sidharthNair/EE460N/tree/main/lab1) - Assembler for the LC3-b assembly language
 
