@@ -1,8 +1,8 @@
 # LC3-b Assembler and Simulators
 
-[State Machine](https://github.com/sidharthNair/LC3b-Assembler-and-Simulators/blob/main/statemachine.pdf)<br />
-[ISA](https://github.com/sidharthNair/LC3b-Assembler-and-Simulators/blob/main/isa.pdf)<br /> 
-[Microarchitecture](https://github.com/sidharthNair/LC3b-Assembler-and-Simulators/blob/main/microarchitecture.pdf)<br />
+[State Machine](https://github.com/sidharthNair/LC3b-Assembler-and-Simulators/blob/main/statemachine.pdf) - Original State Machine<br />
+[ISA](https://github.com/sidharthNair/LC3b-Assembler-and-Simulators/blob/main/isa.pdf) - LC3-b Instruction Set Architecture<br /> 
+[Microarchitecture](https://github.com/sidharthNair/LC3b-Assembler-and-Simulators/blob/main/microarchitecture.pdf) - Original Microarchitecture<br />
 
 [`lab 1`](https://github.com/sidharthNair/EE460N/tree/main/lab1) - Assembler for the LC3-b assembly language
 
